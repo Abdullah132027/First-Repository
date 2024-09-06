@@ -12,6 +12,7 @@ I am a passionate web developer with a strong foundation in front-end technologi
   - JavaScript
   - Tailwind CSS
   - React.js
+  - Git
 
 ### Projects
 - **[Project 1 Name]**: Brief description of the project and technologies used.
